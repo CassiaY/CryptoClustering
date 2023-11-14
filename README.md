@@ -17,8 +17,9 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
 3. **Clustering cryptocurrencies with K-means (scaled data):** predicted segments using the K-means model. Created a scatter plot showing price percent changes from 24 hours and 7days columns and colored the plots by the predicted cryptocurrency clusters.  
 ![scaled_scatter](/readme_imgs/scaled_scatter.png)  
 
-4. **Optimizing clusters with Principal Component Analysis (PCA):** Performed a PCA and reduced the scaled data to 3 features (PC1, PC2, PC3). ![PCA_data_sample](/readme_imgs/pca_data_sample.png)  
-The total explained variance of the three PCs were:
+4. **Optimizing clusters with Principal Component Analysis (PCA):** Performed a PCA and reduced the scaled data to 3 features (PC1, PC2, PC3).  
+![PCA_data_sample](/readme_imgs/pca_data_sample.png)  
+The total explained variance of the three PCs were:  
     - PC1: 0.3719856
     - PC2: 0.34700813
     - PC3: 0.17603793
